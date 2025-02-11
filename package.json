@@ -1,0 +1,13 @@
+{
+  "name": "ricostest",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "express": "^4.21.2",
+    "ricos-content": "^10.102.0"
+  }
+}
